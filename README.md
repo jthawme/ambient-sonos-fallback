@@ -25,3 +25,5 @@ export default {
 
 | Key | Type | Description | Default |
 | --- | ---- | ----------- | ------- |
+
+** It is recommended ** to add `suppressErrors: ['spotify/restricted']` to your `ambient.config.js`

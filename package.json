@@ -1,6 +1,6 @@
 {
   "name": "ambient-sonos-fallback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sonos fallback plugin for [Ambient](https://github.com/jthawme/ambient). Interacts with sonos devices",
   "main": "index.js",
   "type": "module",
